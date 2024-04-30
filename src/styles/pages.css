@@ -1,0 +1,8 @@
+.page {
+    display: none;
+}
+
+.page.visible {
+    display: block;
+    margin-bottom: 2rem;
+}
